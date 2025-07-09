@@ -2,8 +2,7 @@
 This repository contains code for an analysis I performed into the extent to which roller coaster statistics affect its community ranking.
 
 In theme park enthusiast circles, people commonly dismiss statistics as an important factor in how highly a roller coaster is rated, 
-so I decided to analyse the effect that 5 different statistics (height, speed, length, number of inversions and opening year) have on a roller coaster's community ranking 
-using data from Captain Coaster. When correlation analyses were performed, it was found that height, speed and to a lesser extent length were all significantly correlated 
+so I decided to analyse the effect that 5 different statistics (height, speed, length, number of inversions and opening year) have on a roller coaster's community ranking. When correlation analyses were performed, it was found that height, speed and to a lesser extent length were all significantly correlated 
 with ranking. Speed had a particularly strong correlation, with its coefficient bordering on the threshold of a strong correlation. Inversions and opening year were less 
 significantly correlated with ranking, meaning that neither have an overly significant effect in isolation. As such, the first stage of the analysis concluded that 
 "statistics aren't everything" to some extent depending on the statistics you choose, but that some do have a definite positive effect on ranking on average.
